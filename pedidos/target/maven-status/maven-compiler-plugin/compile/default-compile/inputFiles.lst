@@ -1,0 +1,11 @@
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/dto/StatusDto.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/model/ItemDoPedido.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/model/Pedido.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/dto/PedidoDto.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/config/Configuracao.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/dto/ItemDoPedidoDto.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/model/Status.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/controller/PedidoController.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/repository/PedidoRepository.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/service/PedidoService.java
+/home/arthur-rocha/Projetos/alura-ms/pedidos/src/main/java/br/com/alurafood/pedidos/PedidosApplication.java
